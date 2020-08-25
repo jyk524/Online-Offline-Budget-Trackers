@@ -18,7 +18,7 @@
   ### Usage
   * while on vacation or while flying without internet service
   ### License
-  * Zlib
+  * None
   ### Contribute
   * Columbia 2020 June cohort
   ### Test
