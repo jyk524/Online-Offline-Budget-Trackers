@@ -1,6 +1,5 @@
 # Offline Online Budget Tracker
 
-  [![License: Zlib](https://img.shields.io/badge/License-Zlib-yellow.svg)](https://opensource.org/licenses/Zlib)
 
   ### Table of Contents
   1. [Description](#description)
